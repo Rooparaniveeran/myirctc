@@ -18,6 +18,10 @@
     <input type="password" placeholder="Aadhar information<" name="psw-aadhar" id="psw-aadhar" required>
     <hr>
 
+ <label for="psw-phone"><b>Phone information</b></label>
+    <input type="password" placeholder="Aadhar information<" name="psw-phone" id="psw-phone" required>
+    <hr>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
